@@ -1,5 +1,5 @@
 classes=3
-train=../Pictor__PPE_RectLabel/train.txt
-valid=../Pictor__PPE_RectLabel/test.txt
-names=../Pictor__PPE_RectLabel/ppe.names
+train=/mydrive/hLPPE/Pictor__PPE_RectLabel/train.txt
+valid=/mydrive/hLPPE/Pictor__PPE_RectLabel/test.txt
+names=/mydrive/hLPPE/Pictor__PPE_RectLabel/ppe.names
 backup=backup/
