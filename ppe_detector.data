@@ -1,5 +1,5 @@
 classes=3
-train=train.txt
-valid=test.txt
-names= ppe.names
+train=/Pictor__PPE_RectLabel/train.txt
+valid=/Pictor__PPE_RectLabel/test.txt
+names=/Pictor__PPE_RectLabel/ppe.names
 backup=backup/
