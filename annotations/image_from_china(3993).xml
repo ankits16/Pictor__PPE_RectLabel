@@ -1,39 +1,39 @@
-<annotation><folder>PPE_84</folder>
-<filename>image_from_china(3993).jpg</filename>
-<size>
-<width>912</width>
-<height>1216</height>
-<depth>3</depth>
-</size>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>813</xmin>
-<ymin>276</ymin>
-<xmax>889</xmax>
-<ymax>523</ymax>
-</bndbox>
-</object>
-<object>
-<name>Hard Hat</name>
-<bndbox>
-
-<xmin>835</xmin>
-<ymin>319</ymin>
-<xmax>862</xmax>
-<ymax>353</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>582</xmin>
-<ymin>356</ymin>
-<xmax>608</xmax>
-<ymax>399</ymax>
-</bndbox>
-</object>
-
+<annotation>
+    <folder>Images</folder>
+    <filename>image_from_china(3993).jpg</filename>
+    <size>
+        <width>912</width>
+        <height>1216</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>813</xmin>
+            <ymin>276</ymin>
+            <xmax>889</xmax>
+            <ymax>523</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>835</xmin>
+            <ymin>319</ymin>
+            <xmax>876</xmax>
+            <ymax>355</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>582</xmin>
+            <ymin>356</ymin>
+            <xmax>608</xmax>
+            <ymax>399</ymax>
+        </bndbox>
+    </object>
 </annotation>

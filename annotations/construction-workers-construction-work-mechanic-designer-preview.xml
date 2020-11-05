@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>construction-workers-construction-work-mechanic-designer-preview.jpg</filename>
+    <size>
+        <width>728</width>
+        <height>568</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>308</xmin>
+            <ymin>59</ymin>
+            <xmax>424</xmax>
+            <ymax>176</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>188</xmin>
+            <ymin>63</ymin>
+            <xmax>581</xmax>
+            <ymax>453</ymax>
+        </bndbox>
+    </object>
+</annotation>

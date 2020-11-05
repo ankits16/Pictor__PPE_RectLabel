@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>depositphotos_203569956-stock-photo-male-engineer-safety-vest-helmet.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1168</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1077</xmin>
+            <ymin>284</ymin>
+            <xmax>1160</xmax>
+            <ymax>381</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1033</xmin>
+            <ymin>324</ymin>
+            <xmax>1205</xmax>
+            <ymax>599</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1027</xmin>
+            <ymin>289</ymin>
+            <xmax>1248</xmax>
+            <ymax>1003</ymax>
+        </bndbox>
+    </object>
+</annotation>

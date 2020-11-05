@@ -1,0 +1,49 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>scaffold-scaffolding-construction-worker.jpg</filename>
+    <size>
+        <width>910</width>
+        <height>611</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>471</xmin>
+            <ymin>205</ymin>
+            <xmax>495</xmax>
+            <ymax>222</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>138</xmin>
+            <ymin>208</ymin>
+            <xmax>176</xmax>
+            <ymax>255</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>465</xmin>
+            <ymin>202</ymin>
+            <xmax>548</xmax>
+            <ymax>367</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>131</xmin>
+            <ymin>206</ymin>
+            <xmax>245</xmax>
+            <ymax>429</ymax>
+        </bndbox>
+    </object>
+</annotation>

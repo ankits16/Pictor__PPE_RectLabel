@@ -1,0 +1,49 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>construction-3752504_1280.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>853</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>909</xmin>
+            <ymin>41</ymin>
+            <xmax>1280</xmax>
+            <ymax>729</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>246</ymin>
+            <xmax>716</xmax>
+            <ymax>601</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1064</xmin>
+            <ymin>51</ymin>
+            <xmax>1226</xmax>
+            <ymax>149</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>548</xmin>
+            <ymin>218</ymin>
+            <xmax>709</xmax>
+            <ymax>394</ymax>
+        </bndbox>
+    </object>
+</annotation>

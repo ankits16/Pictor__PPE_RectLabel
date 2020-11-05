@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>crossrail-423516__340.jpg</filename>
+    <size>
+        <width>604</width>
+        <height>340</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>430</xmin>
+            <ymin>28</ymin>
+            <xmax>539</xmax>
+            <ymax>173</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>317</xmin>
+            <ymin>28</ymin>
+            <xmax>601</xmax>
+            <ymax>337</ymax>
+        </bndbox>
+    </object>
+</annotation>

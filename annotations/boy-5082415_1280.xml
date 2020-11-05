@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>boy-5082415_1280.jpg</filename>
+    <size>
+        <width>1182</width>
+        <height>1280</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>139</xmin>
+            <ymin>293</ymin>
+            <xmax>649</xmax>
+            <ymax>1266</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>199</xmin>
+            <ymin>401</ymin>
+            <xmax>618</xmax>
+            <ymax>1110</ymax>
+        </bndbox>
+    </object>
+</annotation>

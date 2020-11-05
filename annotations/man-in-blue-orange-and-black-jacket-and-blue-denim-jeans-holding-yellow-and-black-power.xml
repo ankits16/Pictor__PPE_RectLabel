@@ -1,0 +1,29 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>man-in-blue-orange-and-black-jacket-and-blue-denim-jeans-holding-yellow-and-black-power.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>666</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>218</xmin>
+            <ymin>6</ymin>
+            <xmax>468</xmax>
+            <ymax>181</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>23</xmin>
+            <ymin>9</ymin>
+            <xmax>468</xmax>
+            <ymax>603</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,59 +1,59 @@
-<annotation><folder>PPE_84</folder>
-<filename>image_from_china(2665).jpg</filename>
-<size>
-<width>1216</width>
-<height>912</height>
-<depth>3</depth>
-</size>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>1</xmin>
-<ymin>385</ymin>
-<xmax>283</xmax>
-<ymax>911</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>62</xmin>
-<ymin>96</ymin>
-<xmax>222</xmax>
-<ymax>490</ymax>
-</bndbox>
-</object>
-<object>
-<name>Hard Hat</name>
-<bndbox>
-
-<xmin>115</xmin>
-<ymin>95</ymin>
-<xmax>219</xmax>
-<ymax>185</ymax>
-</bndbox>
-</object>
-<object>
-<name>Vest</name>
-<bndbox>
-
-<xmin>62</xmin>
-<ymin>204</ymin>
-<xmax>222</xmax>
-<ymax>490</ymax>
-</bndbox>
-</object>
-<object>
-<name>Hard Hat</name>
-<bndbox>
-
-<xmin>149</xmin>
-<ymin>384</ymin>
-<xmax>256</xmax>
-<ymax>467</ymax>
-</bndbox>
-</object>
-
+<annotation>
+    <folder>Images</folder>
+    <filename>image_from_china(2665).jpg</filename>
+    <size>
+        <width>1216</width>
+        <height>912</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>385</ymin>
+            <xmax>283</xmax>
+            <ymax>911</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>62</xmin>
+            <ymin>96</ymin>
+            <xmax>222</xmax>
+            <ymax>490</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>115</xmin>
+            <ymin>95</ymin>
+            <xmax>220</xmax>
+            <ymax>232</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>91</xmin>
+            <ymin>214</ymin>
+            <xmax>224</xmax>
+            <ymax>456</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>149</xmin>
+            <ymin>384</ymin>
+            <xmax>260</xmax>
+            <ymax>548</ymax>
+        </bndbox>
+    </object>
 </annotation>

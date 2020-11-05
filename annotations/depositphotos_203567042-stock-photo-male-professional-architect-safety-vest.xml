@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>depositphotos_203567042-stock-photo-male-professional-architect-safety-vest.jpg</filename>
+    <size>
+        <width>1600</width>
+        <height>1168</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1167</xmin>
+            <ymin>175</ymin>
+            <xmax>1468</xmax>
+            <ymax>1036</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1215</xmin>
+            <ymin>221</ymin>
+            <xmax>1443</xmax>
+            <ymax>541</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1251</xmin>
+            <ymin>180</ymin>
+            <xmax>1356</xmax>
+            <ymax>299</ymax>
+        </bndbox>
+    </object>
+</annotation>

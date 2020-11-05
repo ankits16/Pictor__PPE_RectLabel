@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>e07f8471e53bf9ea5ef96116d103227521c0ae30.jpeg</filename>
+    <size>
+        <width>768</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>498</xmin>
+            <ymin>184</ymin>
+            <xmax>569</xmax>
+            <ymax>332</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>510</xmin>
+            <ymin>165</ymin>
+            <xmax>564</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>441</xmin>
+            <ymin>166</ymin>
+            <xmax>633</xmax>
+            <ymax>426</ymax>
+        </bndbox>
+    </object>
+</annotation>

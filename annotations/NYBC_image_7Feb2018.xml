@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>NYBC_image_7Feb2018.jpg</filename>
+    <size>
+        <width>616</width>
+        <height>372</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>242</xmin>
+            <ymin>1</ymin>
+            <xmax>505</xmax>
+            <ymax>367</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>344</xmin>
+            <ymin>55</ymin>
+            <xmax>505</xmax>
+            <ymax>333</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>351</xmin>
+            <ymin>1</ymin>
+            <xmax>467</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>1882862_6edca504.jpg</filename>
+    <size>
+        <width>640</width>
+        <height>427</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>143</xmin>
+            <ymin>143</ymin>
+            <xmax>266</xmax>
+            <ymax>201</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>124</ymin>
+            <xmax>275</xmax>
+            <ymax>176</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>124</xmin>
+            <ymin>123</ymin>
+            <xmax>275</xmax>
+            <ymax>333</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>5010201739_3eb250241f_b.jpg</filename>
+    <size>
+        <width>683</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53</xmin>
+            <ymin>359</ymin>
+            <xmax>542</xmax>
+            <ymax>984</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>91</xmin>
+            <ymin>475</ymin>
+            <xmax>323</xmax>
+            <ymax>838</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>221</xmin>
+            <ymin>391</ymin>
+            <xmax>358</xmax>
+            <ymax>549</ymax>
+        </bndbox>
+    </object>
+</annotation>

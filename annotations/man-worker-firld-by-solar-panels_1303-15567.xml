@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>man-worker-firld-by-solar-panels_1303-15567.jpg</filename>
+    <size>
+        <width>626</width>
+        <height>417</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>103</xmin>
+            <ymin>48</ymin>
+            <xmax>238</xmax>
+            <ymax>266</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>156</xmin>
+            <ymin>9</ymin>
+            <xmax>234</xmax>
+            <ymax>107</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>97</xmin>
+            <ymin>8</ymin>
+            <xmax>329</xmax>
+            <ymax>404</ymax>
+        </bndbox>
+    </object>
+</annotation>

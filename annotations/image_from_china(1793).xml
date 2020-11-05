@@ -1,79 +1,49 @@
-<annotation><folder>PPE_84</folder>
-<filename>image_from_china(1793).jpg</filename>
-<size>
-<width>1216</width>
-<height>912</height>
-<depth>3</depth>
-</size>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>309</xmin>
-<ymin>143</ymin>
-<xmax>634</xmax>
-<ymax>472</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>655</xmin>
-<ymin>61</ymin>
-<xmax>814</xmax>
-<ymax>231</ymax>
-</bndbox>
-</object>
-<object>
-<name>Hard Hat</name>
-<bndbox>
-
-<xmin>434</xmin>
-<ymin>143</ymin>
-<xmax>596</xmax>
-<ymax>251</ymax>
-</bndbox>
-</object>
-<object>
-<name>Hard Hat</name>
-<bndbox>
-
-<xmin>741</xmin>
-<ymin>61</ymin>
-<xmax>814</xmax>
-<ymax>130</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>1147</xmin>
-<ymin>236</ymin>
-<xmax>1216</xmax>
-<ymax>417</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>1158</xmin>
-<ymin>90</ymin>
-<xmax>1216</xmax>
-<ymax>217</ymax>
-</bndbox>
-</object>
-<object>
-<name>Hard Hat</name>
-<bndbox>
-
-<xmin>1203</xmin>
-<ymin>90</ymin>
-<xmax>1216</xmax>
-<ymax>112</ymax>
-</bndbox>
-</object>
-
+<annotation>
+    <folder>Images</folder>
+    <filename>image_from_china(1793).jpg</filename>
+    <size>
+        <width>1216</width>
+        <height>912</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>309</xmin>
+            <ymin>143</ymin>
+            <xmax>634</xmax>
+            <ymax>472</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>655</xmin>
+            <ymin>61</ymin>
+            <xmax>814</xmax>
+            <ymax>231</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1147</xmin>
+            <ymin>236</ymin>
+            <xmax>1216</xmax>
+            <ymax>417</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1158</xmin>
+            <ymin>90</ymin>
+            <xmax>1216</xmax>
+            <ymax>217</ymax>
+        </bndbox>
+    </object>
 </annotation>

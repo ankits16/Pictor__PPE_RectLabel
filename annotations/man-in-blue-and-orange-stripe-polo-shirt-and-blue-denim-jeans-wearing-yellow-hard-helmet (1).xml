@@ -1,0 +1,59 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>man-in-blue-and-orange-stripe-polo-shirt-and-blue-denim-jeans-wearing-yellow-hard-helmet (1).jpg</filename>
+    <size>
+        <width>800</width>
+        <height>509</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>313</xmin>
+            <ymin>290</ymin>
+            <xmax>382</xmax>
+            <ymax>347</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>405</xmin>
+            <ymin>146</ymin>
+            <xmax>484</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>425</xmin>
+            <ymin>173</ymin>
+            <xmax>560</xmax>
+            <ymax>387</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>212</xmin>
+            <ymin>290</ymin>
+            <xmax>383</xmax>
+            <ymax>495</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>374</xmin>
+            <ymin>148</ymin>
+            <xmax>561</xmax>
+            <ymax>499</ymax>
+        </bndbox>
+    </object>
+</annotation>

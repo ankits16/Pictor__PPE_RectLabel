@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>construction-worker-man-people-job-preview.jpg</filename>
+    <size>
+        <width>728</width>
+        <height>1094</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>211</xmin>
+            <ymin>239</ymin>
+            <xmax>501</xmax>
+            <ymax>576</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>69</xmin>
+            <ymin>420</ymin>
+            <xmax>583</xmax>
+            <ymax>1090</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>236</ymin>
+            <xmax>709</xmax>
+            <ymax>1094</ymax>
+        </bndbox>
+    </object>
+</annotation>
