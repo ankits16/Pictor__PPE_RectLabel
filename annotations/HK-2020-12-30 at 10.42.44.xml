@@ -1,0 +1,19 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>HK-2020-12-30 at 10.42.44.png</filename>
+    <size>
+        <width>631</width>
+        <height>471</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>122</xmin>
+            <ymin>76</ymin>
+            <xmax>264</xmax>
+            <ymax>217</ymax>
+        </bndbox>
+    </object>
+</annotation>
