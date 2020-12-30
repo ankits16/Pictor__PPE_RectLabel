@@ -10,16 +10,6 @@
         <name>Hard Hat</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>471</xmin>
-            <ymin>205</ymin>
-            <xmax>495</xmax>
-            <ymax>222</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Hard Hat</name>
-        <difficult>0</difficult>
-        <bndbox>
             <xmin>138</xmin>
             <ymin>208</ymin>
             <xmax>176</xmax>
