@@ -10,16 +10,6 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>39</xmin>
-            <ymin>49</ymin>
-            <xmax>61</xmax>
-            <ymax>96</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
             <xmin>656</xmin>
             <ymin>161</ymin>
             <xmax>827</xmax>
@@ -61,7 +51,7 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>412</xmin>
-            <ymin>142</ymin>
+            <ymin>125</ymin>
             <xmax>520</xmax>
             <ymax>251</ymax>
         </bndbox>
@@ -70,8 +60,8 @@
         <name>Vest</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>188</xmin>
-            <ymin>113</ymin>
+            <xmin>199</xmin>
+            <ymin>117</ymin>
             <xmax>300</xmax>
             <ymax>238</ymax>
         </bndbox>

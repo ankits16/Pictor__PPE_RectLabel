@@ -12,16 +12,16 @@
         <bndbox>
             <xmin>1</xmin>
             <ymin>281</ymin>
-            <xmax>254</xmax>
-            <ymax>911</ymax>
+            <xmax>236</xmax>
+            <ymax>899</ymax>
         </bndbox>
     </object>
     <object>
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>852</xmin>
-            <ymin>378</ymin>
+            <xmin>870</xmin>
+            <ymin>379</ymin>
             <xmax>1216</xmax>
             <ymax>910</ymax>
         </bndbox>
@@ -44,16 +44,6 @@
             <ymin>377</ymin>
             <xmax>1212</xmax>
             <ymax>547</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>1</xmin>
-            <ymin>118</ymin>
-            <xmax>286</xmax>
-            <ymax>307</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -60,16 +60,6 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>745</xmin>
-            <ymin>429</ymin>
-            <xmax>958</xmax>
-            <ymax>700</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
             <xmin>560</xmin>
             <ymin>242</ymin>
             <xmax>802</xmax>

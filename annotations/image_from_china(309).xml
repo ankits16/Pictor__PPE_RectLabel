@@ -1,19 +1,19 @@
-<annotation><folder>PPE_84</folder>
-<filename>image_from_china(309).jpg</filename>
-<size>
-<width>1216</width>
-<height>911</height>
-<depth>3</depth>
-</size>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>779</xmin>
-<ymin>380</ymin>
-<xmax>1110</xmax>
-<ymax>725</ymax>
-</bndbox>
-</object>
-
+<annotation>
+    <folder>Images</folder>
+    <filename>image_from_china(309).jpg</filename>
+    <size>
+        <width>1216</width>
+        <height>911</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>779</xmin>
+            <ymin>383</ymin>
+            <xmax>1096</xmax>
+            <ymax>699</ymax>
+        </bndbox>
+    </object>
 </annotation>

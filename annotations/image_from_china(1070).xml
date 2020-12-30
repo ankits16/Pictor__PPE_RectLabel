@@ -10,10 +10,10 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>758</xmin>
+            <xmin>809</xmin>
             <ymin>1</ymin>
             <xmax>909</xmax>
-            <ymax>457</ymax>
+            <ymax>460</ymax>
         </bndbox>
     </object>
     <object>
@@ -34,36 +34,6 @@
             <ymin>46</ymin>
             <xmax>834</xmax>
             <ymax>115</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Hard Hat</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>806</xmin>
-            <ymin>29</ymin>
-            <xmax>841</xmax>
-            <ymax>71</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>764</xmin>
-            <ymin>46</ymin>
-            <xmax>836</xmax>
-            <ymax>220</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>732</xmin>
-            <ymin>139</ymin>
-            <xmax>761</xmax>
-            <ymax>201</ymax>
         </bndbox>
     </object>
 </annotation>

@@ -1,39 +1,39 @@
-<annotation><folder>PPE_84</folder>
-<filename>image_from_china(3519).jpg</filename>
-<size>
-<width>912</width>
-<height>1216</height>
-<depth>3</depth>
-</size>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>442</xmin>
-<ymin>637</ymin>
-<xmax>486</xmax>
-<ymax>781</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>556</xmin>
-<ymin>616</ymin>
-<xmax>608</xmax>
-<ymax>787</ymax>
-</bndbox>
-</object>
-<object>
-<name>Person</name>
-<bndbox>
-
-<xmin>629</xmin>
-<ymin>611</ymin>
-<xmax>667</xmax>
-<ymax>783</ymax>
-</bndbox>
-</object>
-
+<annotation>
+    <folder>Images</folder>
+    <filename>image_from_china(3519).jpg</filename>
+    <size>
+        <width>912</width>
+        <height>1216</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>442</xmin>
+            <ymin>637</ymin>
+            <xmax>486</xmax>
+            <ymax>781</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>556</xmin>
+            <ymin>616</ymin>
+            <xmax>608</xmax>
+            <ymax>787</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>629</xmin>
+            <ymin>611</ymin>
+            <xmax>667</xmax>
+            <ymax>783</ymax>
+        </bndbox>
+    </object>
 </annotation>

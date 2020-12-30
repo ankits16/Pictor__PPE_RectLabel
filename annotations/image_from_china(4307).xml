@@ -22,15 +22,15 @@
         <bndbox>
             <xmin>152</xmin>
             <ymin>409</ymin>
-            <xmax>231</xmax>
-            <ymax>614</ymax>
+            <xmax>217</xmax>
+            <ymax>615</ymax>
         </bndbox>
     </object>
     <object>
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>211</xmin>
+            <xmin>217</xmin>
             <ymin>379</ymin>
             <xmax>280</xmax>
             <ymax>595</ymax>
