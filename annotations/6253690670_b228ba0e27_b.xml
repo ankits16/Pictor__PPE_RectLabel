@@ -40,10 +40,10 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>718</xmin>
+            <xmin>724</xmin>
             <ymin>56</ymin>
             <xmax>835</xmax>
-            <ymax>455</ymax>
+            <ymax>456</ymax>
         </bndbox>
     </object>
     <object>
