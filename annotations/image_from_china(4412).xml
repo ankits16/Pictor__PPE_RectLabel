@@ -12,8 +12,8 @@
         <bndbox>
             <xmin>241</xmin>
             <ymin>258</ymin>
-            <xmax>382</xmax>
-            <ymax>670</ymax>
+            <xmax>353</xmax>
+            <ymax>667</ymax>
         </bndbox>
     </object>
     <object>
@@ -30,9 +30,9 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>321</xmin>
+            <xmin>349</xmin>
             <ymin>275</ymin>
-            <xmax>454</xmax>
+            <xmax>452</xmax>
             <ymax>649</ymax>
         </bndbox>
     </object>

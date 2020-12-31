@@ -7,16 +7,6 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>213</xmin>
-            <ymin>174</ymin>
-            <xmax>911</xmax>
-            <ymax>1212</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>Hard Hat</name>
         <difficult>0</difficult>
         <bndbox>

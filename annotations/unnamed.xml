@@ -23,7 +23,7 @@
             <xmin>440</xmin>
             <ymin>139</ymin>
             <xmax>466</xmax>
-            <ymax>161</ymax>
+            <ymax>164</ymax>
         </bndbox>
     </object>
     <object>
@@ -33,7 +33,7 @@
             <xmin>263</xmin>
             <ymin>162</ymin>
             <xmax>294</xmax>
-            <ymax>199</ymax>
+            <ymax>190</ymax>
         </bndbox>
     </object>
     <object>
@@ -43,27 +43,17 @@
             <xmin>441</xmin>
             <ymin>88</ymin>
             <xmax>469</xmax>
-            <ymax>119</ymax>
+            <ymax>122</ymax>
         </bndbox>
     </object>
     <object>
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>370</xmin>
+            <xmin>378</xmin>
             <ymin>138</ymin>
             <xmax>480</xmax>
             <ymax>309</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>422</xmin>
-            <ymin>87</ymin>
-            <xmax>485</xmax>
-            <ymax>179</ymax>
         </bndbox>
     </object>
     <object>

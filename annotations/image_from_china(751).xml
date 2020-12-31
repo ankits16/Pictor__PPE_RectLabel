@@ -23,7 +23,7 @@
             <xmin>11</xmin>
             <ymin>228</ymin>
             <xmax>91</xmax>
-            <ymax>386</ymax>
+            <ymax>343</ymax>
         </bndbox>
     </object>
     <object>
@@ -60,10 +60,10 @@
         <name>Hard Hat</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>506</xmin>
+            <xmin>502</xmin>
             <ymin>246</ymin>
             <xmax>539</xmax>
-            <ymax>286</ymax>
+            <ymax>293</ymax>
         </bndbox>
     </object>
     <object>
@@ -72,8 +72,8 @@
         <bndbox>
             <xmin>156</xmin>
             <ymin>129</ymin>
-            <xmax>182</xmax>
-            <ymax>160</ymax>
+            <xmax>185</xmax>
+            <ymax>163</ymax>
         </bndbox>
     </object>
     <object>

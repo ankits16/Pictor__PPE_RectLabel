@@ -16,34 +16,4 @@
             <ymax>588</ymax>
         </bndbox>
     </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>1</xmin>
-            <ymin>479</ymin>
-            <xmax>40</xmax>
-            <ymax>558</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>76</xmin>
-            <ymin>533</ymin>
-            <xmax>118</xmax>
-            <ymax>558</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>210</xmin>
-            <ymin>479</ymin>
-            <xmax>232</xmax>
-            <ymax>498</ymax>
-        </bndbox>
-    </object>
 </annotation>

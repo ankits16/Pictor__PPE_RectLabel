@@ -61,8 +61,8 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>305</xmin>
-            <ymin>22</ymin>
-            <xmax>395</xmax>
+            <ymin>35</ymin>
+            <xmax>394</xmax>
             <ymax>234</ymax>
         </bndbox>
     </object>
@@ -80,9 +80,9 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>556</xmin>
-            <ymin>195</ymin>
-            <xmax>654</xmax>
+            <xmin>564</xmin>
+            <ymin>197</ymin>
+            <xmax>643</xmax>
             <ymax>343</ymax>
         </bndbox>
     </object>

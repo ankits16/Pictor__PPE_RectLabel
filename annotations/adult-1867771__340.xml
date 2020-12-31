@@ -10,9 +10,9 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>254</xmin>
-            <ymin>77</ymin>
-            <xmax>429</xmax>
+            <xmin>273</xmin>
+            <ymin>78</ymin>
+            <xmax>425</xmax>
             <ymax>339</ymax>
         </bndbox>
     </object>

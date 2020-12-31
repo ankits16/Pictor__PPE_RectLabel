@@ -1,0 +1,39 @@
+<annotation>
+    <folder>Images</folder>
+    <filename>HK-2020-12-30 at 10.18.48.png</filename>
+    <size>
+        <width>693</width>
+        <height>518</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>269</xmin>
+            <ymin>24</ymin>
+            <xmax>368</xmax>
+            <ymax>305</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>296</xmin>
+            <ymin>65</ymin>
+            <xmax>369</xmax>
+            <ymax>187</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>267</xmin>
+            <ymin>22</ymin>
+            <xmax>318</xmax>
+            <ymax>82</ymax>
+        </bndbox>
+    </object>
+</annotation>

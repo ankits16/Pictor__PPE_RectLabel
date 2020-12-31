@@ -7,36 +7,6 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>Vest</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>1147</xmin>
-            <ymin>605</ymin>
-            <xmax>1195</xmax>
-            <ymax>670</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Hard Hat</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>1140</xmin>
-            <ymin>590</ymin>
-            <xmax>1160</xmax>
-            <ymax>614</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Hard Hat</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>265</xmin>
-            <ymin>511</ymin>
-            <xmax>307</xmax>
-            <ymax>558</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
@@ -61,8 +31,8 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>640</xmin>
-            <ymin>70</ymin>
-            <xmax>875</xmax>
+            <ymin>142</ymin>
+            <xmax>871</xmax>
             <ymax>853</ymax>
         </bndbox>
     </object>
@@ -71,8 +41,8 @@
         <difficult>0</difficult>
         <bndbox>
             <xmin>464</xmin>
-            <ymin>106</ymin>
-            <xmax>741</xmax>
+            <ymin>114</ymin>
+            <xmax>701</xmax>
             <ymax>853</ymax>
         </bndbox>
     </object>
@@ -90,10 +60,10 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>1161</xmin>
+            <xmin>1187</xmin>
             <ymin>369</ymin>
-            <xmax>1280</xmax>
-            <ymax>832</ymax>
+            <xmax>1274</xmax>
+            <ymax>830</ymax>
         </bndbox>
     </object>
     <object>
@@ -112,7 +82,7 @@
         <bndbox>
             <xmin>646</xmin>
             <ymin>165</ymin>
-            <xmax>713</xmax>
+            <xmax>702</xmax>
             <ymax>274</ymax>
         </bndbox>
     </object>
@@ -120,10 +90,10 @@
         <name>Hard Hat</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>471</xmin>
+            <xmin>481</xmin>
             <ymin>95</ymin>
-            <xmax>594</xmax>
-            <ymax>225</ymax>
+            <xmax>583</xmax>
+            <ymax>213</ymax>
         </bndbox>
     </object>
     <object>
@@ -162,8 +132,8 @@
         <bndbox>
             <xmin>477</xmin>
             <ymin>148</ymin>
-            <xmax>697</xmax>
-            <ymax>492</ymax>
+            <xmax>681</xmax>
+            <ymax>493</ymax>
         </bndbox>
     </object>
     <object>
@@ -172,7 +142,7 @@
         <bndbox>
             <xmin>1171</xmin>
             <ymin>409</ymin>
-            <xmax>1279</xmax>
+            <xmax>1275</xmax>
             <ymax>600</ymax>
         </bndbox>
     </object>

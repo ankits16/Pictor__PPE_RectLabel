@@ -116,14 +116,4 @@
             <ymax>64</ymax>
         </bndbox>
     </object>
-    <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>464</xmin>
-            <ymin>204</ymin>
-            <xmax>578</xmax>
-            <ymax>302</ymax>
-        </bndbox>
-    </object>
 </annotation>
