@@ -10,10 +10,10 @@
         <name>Vest</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>616</xmin>
+            <xmin>599</xmin>
             <ymin>204</ymin>
-            <xmax>712</xmax>
-            <ymax>339</ymax>
+            <xmax>720</xmax>
+            <ymax>343</ymax>
         </bndbox>
     </object>
     <object>

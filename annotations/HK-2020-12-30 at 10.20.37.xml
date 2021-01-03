@@ -7,16 +7,6 @@
         <depth>3</depth>
     </size>
     <object>
-        <name>Person</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>361</xmin>
-            <ymin>181</ymin>
-            <xmax>377</xmax>
-            <ymax>252</ymax>
-        </bndbox>
-    </object>
-    <object>
         <name>Vest</name>
         <difficult>0</difficult>
         <bndbox>
@@ -34,16 +24,6 @@
             <ymin>240</ymin>
             <xmax>275</xmax>
             <ymax>287</ymax>
-        </bndbox>
-    </object>
-    <object>
-        <name>Hard Hat</name>
-        <difficult>0</difficult>
-        <bndbox>
-            <xmin>251</xmin>
-            <ymin>229</ymin>
-            <xmax>276</xmax>
-            <ymax>258</ymax>
         </bndbox>
     </object>
     <object>

@@ -50,7 +50,7 @@
         <name>Person</name>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>158</xmin>
+            <xmin>2</xmin>
             <ymin>188</ymin>
             <xmax>491</xmax>
             <ymax>613</ymax>
