@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>001089_jpg.rf.6ebead95bb7cc66a65d8d73fa7b101ec.jpg</filename>
+	<path>001089_jpg.rf.6ebead95bb7cc66a65d8d73fa7b101ec.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>238</xmax>
+			<ymin>3</ymin>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+<object><name>Person</name><difficult>0</difficult><bndbox><xmin>78</xmin><ymin>19</ymin><xmax>341</xmax><ymax>330</ymax></bndbox></object></annotation>

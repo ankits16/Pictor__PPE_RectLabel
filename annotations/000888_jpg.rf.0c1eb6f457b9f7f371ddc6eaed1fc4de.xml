@@ -1,0 +1,29 @@
+<annotation>
+    <folder>clean_data</folder>
+    <filename>000888_jpg.rf.0c1eb6f457b9f7f371ddc6eaed1fc4de.jpg</filename>
+    <size>
+        <width>361</width>
+        <height>550</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Hard Hat</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>145</ymin>
+            <xmax>191</xmax>
+            <ymax>221</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>107</ymin>
+            <xmax>278</xmax>
+            <ymax>546</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,40 @@
+<annotation>
+	<folder />
+	<filename>000644_jpg.rf.549944847b61ddcd29461e6eff390d0a.jpg</filename>
+	<path>000644_jpg.rf.549944847b61ddcd29461e6eff390d0a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>171</xmax>
+			<ymin>40</ymin>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>205</xmax>
+			<ymin>79</ymin>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+<object><name>Person</name><difficult>0</difficult><bndbox><xmin>150</xmin><ymin>81</ymin><xmax>213</xmax><ymax>185</ymax></bndbox></object><object><name>Person</name><difficult>0</difficult><bndbox><xmin>104</xmin><ymin>44</ymin><xmax>166</xmax><ymax>115</ymax></bndbox></object></annotation>

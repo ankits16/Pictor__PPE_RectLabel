@@ -1,0 +1,19 @@
+<annotation>
+    <folder>clean_data</folder>
+    <filename>000840_jpg.rf.6650baf666e02be33972839a1b51f652.jpg</filename>
+    <size>
+        <width>500</width>
+        <height>500</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Person</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>185</xmin>
+            <ymin>203</ymin>
+            <xmax>343</xmax>
+            <ymax>495</ymax>
+        </bndbox>
+    </object>
+</annotation>

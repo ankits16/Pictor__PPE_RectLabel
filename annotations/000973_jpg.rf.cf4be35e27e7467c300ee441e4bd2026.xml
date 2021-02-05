@@ -1,0 +1,79 @@
+<annotation>
+	<folder />
+	<filename>000973_jpg.rf.cf4be35e27e7467c300ee441e4bd2026.jpg</filename>
+	<path>000973_jpg.rf.cf4be35e27e7467c300ee441e4bd2026.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>757</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>107</xmax>
+			<ymin>310</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>184</xmax>
+			<ymin>443</ymin>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>194</xmin>
+			<xmax>249</xmax>
+			<ymin>163</ymin>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>287</xmin>
+			<xmax>337</xmax>
+			<ymin>220</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Hard Hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>388</xmin>
+			<xmax>458</xmax>
+			<ymin>132</ymin>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+<object><name>Person</name><difficult>0</difficult><bndbox><xmin>189</xmin><ymin>156</ymin><xmax>285</xmax><ymax>518</ymax></bndbox></object><object><name>Person</name><difficult>0</difficult><bndbox><xmin>57</xmin><ymin>305</ymin><xmax>121</xmax><ymax>518</ymax></bndbox></object><object><name>Person</name><difficult>0</difficult><bndbox><xmin>284</xmin><ymin>216</ymin><xmax>422</xmax><ymax>501</ymax></bndbox></object><object><name>Person</name><difficult>0</difficult><bndbox><xmin>392</xmin><ymin>132</ymin><xmax>500</xmax><ymax>485</ymax></bndbox></object><object><name>Person</name><difficult>0</difficult><bndbox><xmin>158</xmin><ymin>445</ymin><xmax>210</xmax><ymax>501</ymax></bndbox></object></annotation>

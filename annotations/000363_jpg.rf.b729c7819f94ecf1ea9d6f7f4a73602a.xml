@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>000363_jpg.rf.b729c7819f94ecf1ea9d6f7f4a73602a.jpg</filename>
+	<path>000363_jpg.rf.b729c7819f94ecf1ea9d6f7f4a73602a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>Person</name><difficult>0</difficult><bndbox><xmin>262</xmin><ymin>175</ymin><xmax>300</xmax><ymax>278</ymax></bndbox></object></annotation>

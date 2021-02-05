@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>000263_jpg.rf.ee286896e0f00913b1845a0de826a566.jpg</filename>
+	<path>000263_jpg.rf.ee286896e0f00913b1845a0de826a566.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object><name>Vest</name><difficult>0</difficult><bndbox><xmin>359</xmin><ymin>69</ymin><xmax>384</xmax><ymax>107</ymax></bndbox></object><object><name>Person</name><difficult>0</difficult><bndbox><xmin>355</xmin><ymin>62</ymin><xmax>388</xmax><ymax>139</ymax></bndbox></object></annotation>
